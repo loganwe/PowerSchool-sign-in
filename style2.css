@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  font-size: 60px;
+}
+#username {
+  background-color: white;
+  font-size: 20px;
+}
+#password {
+  background-color: white;
+  font-size: 20px;
+}
+#button {
+  font-size: 20px;
+}
+script {
+  background-color: lightblue;
+  text-align: center;
+  font-size: 60px;
+}
+p {
+  color: red;
+}
